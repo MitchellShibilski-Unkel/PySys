@@ -7,7 +7,7 @@ Simple library to see your computer's spec information.
 
 # Installation
 1. Open your IDE of choice
-2. In the terminal, use: `gh repo clone MitchellShibilski-Unkel/PySys`
+2. In the terminal, use: `pip install git+https://github.com/MitchellShibilski-Unkel/PySys.git@mains`
 
 IF, you do not have; please install them:
 - NumPy
